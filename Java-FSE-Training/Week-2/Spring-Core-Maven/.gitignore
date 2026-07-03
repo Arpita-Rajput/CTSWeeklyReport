@@ -1,0 +1,16 @@
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.class
+*.jar
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+.gradle/
+build/
+*.iml
+.vscode/
